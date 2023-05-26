@@ -1,6 +1,6 @@
-name: Python application
+name: Python application Build & deploy
 
-on: [push]
+on: workflow_dispatch
 
 jobs:
   build:
